@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="HP"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-01-17 07:52:10 &#214;S"/>
+        <attribute name="created" value="SFA7REVTS1RPUC01R1ZVQjFPOzIwMjEtMDEtMTc7MTI6MDA6NTIgw5ZTOzI2MzI="/>
+        <attribute name="edited" value="SFA7REVTS1RPUC01R1ZVQjFPOzIwMjEtMDEtMTc7MDc6NTI6MTAgw5ZTOzE7Mjc0NQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="adsoyad" type="String" array="False" size=""/>
+            <output expression="&quot;ad&#305;n&#305;z giriniz&quot;" newline="True"/>
+            <input variable="adsoyad"/>
+            <declare name="tc" type="Integer" array="False" size=""/>
+            <output expression="&quot;tc nizi giriniz&quot;" newline="True"/>
+            <input variable="tc"/>
+            <declare name="do&#287;umtarihi" type="String" array="False" size=""/>
+            <output expression="&quot;do&#287;um tarihinizi giriniz&quot;" newline="True"/>
+            <input variable="do&#287;umtarihi"/>
+            <declare name="exsel" type="Integer" array="False" size=""/>
+            <declare name="word" type="Integer" array="False" size=""/>
+            <declare name="powerpoint" type="Integer" array="False" size=""/>
+            <declare name="skype" type="Integer" array="False" size=""/>
+            <declare name="ofisprogramlar&#305;" type="Integer" array="False" size=""/>
+            <output expression="&quot;ofis programlar&#305;ndan ka&#231;&#305;n&#305; iyi bir &#351;ekilde biliyorsunuz (isim isim giriniz)&quot;" newline="True"/>
+            <input variable="ofisprogramlar&#305;"/>
+            <declare name="yabanc&#305;dil" type="String" array="False" size=""/>
+            <output expression="&quot;ka&#231;dil biliyorsunuz&quot;" newline="True"/>
+            <input variable="yabanc&#305;dil"/>
+            <declare name="muhasebeci" type="Integer" array="False" size=""/>
+            <declare name="digitalmarketing" type="Integer" array="False" size=""/>
+            <declare name="siberg&#252;venlik" type="Integer" array="False" size=""/>
+            <declare name="yaz&#305;l&#305;mc&#305;" type="Integer" array="False" size=""/>
+            <declare name="elektrikm&#252;hendisi" type="Integer" array="False" size=""/>
+            <declare name="i&#351;tecr&#252;be" type="Integer" array="False" size=""/>
+            <output expression="&quot;i&#351; tecrubeleriniz nelerdir&quot;" newline="True"/>
+            <input variable="i&#351;tecr&#252;be"/>
+            <declare name="se&#231;im" type="String" array="False" size=""/>
+            <output expression="&quot;neden bizi se&#231;tiniz&quot;" newline="True"/>
+            <input variable="se&#231;im"/>
+            <output expression="&quot;i&#351;e al&#305;nd&#305;n&#305;z cuma g&#252;n&#252; saat onda gelin buraya&quot;" newline="True"/>
+            <declare name="sametkaplan" type="String" array="False" size=""/>
+            <input variable="sametkaplan"/>
+            <declare name="hande" type="String" array="False" size=""/>
+            <input variable="hande"/>
+            <declare name="ya&#287;mur" type="String" array="False" size=""/>
+            <input variable="ya&#287;mur"/>
+            <declare name="ceren" type="String" array="False" size=""/>
+            <input variable="ceren"/>
+            <declare name="ahmet" type="String" array="False" size=""/>
+            <input variable="ahmet"/>
+            <declare name="okann" type="String" array="False" size=""/>
+            <input variable="okan"/>
+            <declare name="yunus" type="String" array="False" size=""/>
+            <input variable="yunus"/>
+            <declare name="yusuf" type="String" array="False" size=""/>
+            <input variable="yusuf"/>
+            <declare name="ihsan" type="String" array="False" size=""/>
+            <input variable="ihsan"/>
+            <declare name="sait" type="String" array="False" size=""/>
+            <input variable="sait"/>
+            <declare name="firat" type="String" array="False" size=""/>
+            <input variable="firat"/>
+            <declare name="arda" type="String" array="False" size=""/>
+            <input variable="arda"/>
+            <declare name="selim" type="String" array="False" size=""/>
+            <input variable="selim"/>
+            <declare name="sayi" type="Integer" array="False" size=""/>
+            <input variable="sayi"/>
+        </body>
+    </function>
+</flowgorithm>
